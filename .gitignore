@@ -1,0 +1,6 @@
+.env
+build/
+.gradle/
+*.class
+gradle-8.5/
+gradle.zip
